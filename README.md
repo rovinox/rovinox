@@ -17,7 +17,7 @@
 ```javascript
 const neaj = {
   location: "Tampa, FL",
-  currentRole: "Software Engineer",
+  currentRole: "Lead Software Engineer",
   passion: "Building scalable solutions that make a difference",
   motto: "If I'm the smartest person in the room, I'm in the wrong room",
   
